@@ -4,6 +4,9 @@
 
 ![Capa do projeto](/Imagens/Streamlit_Model.png)
 
+# Link para acessar o projeto 
+https://chgproject01.streamlit.app/
+
 ## 📖 Sobre o projeto
 
 Este projeto foi desenvolvido com o objetivo de analisar os fatores que influenciam a saída de funcionários de uma empresa (Attrition) utilizando técnicas de Ciência de Dados e Machine Learning.
