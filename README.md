@@ -143,39 +143,6 @@ Durante o desenvolvimento deste projeto foram praticados conceitos como:
 
 ---
 
-# 🚀 Como executar
-
-Clone o repositório:
-
-```bash
-git clone https://github.com/seu_usuario/seu_repositorio.git
-```
-
-Instale as dependências:
-
-```bash
-pip install -r requirements.txt
-```
-
-Execute os notebooks na ordem:
-
-```
-01_EDA.ipynb
-02_MachineLearning.ipynb
-```
-
----
-
-# 📌 Próximas melhorias
-
-- Implementar novos modelos para comparação.
-- Ajustar hiperparâmetros.
-- Desenvolver dashboard em Streamlit.
-- Realizar validação cruzada.
-- Explicar a importância das variáveis utilizando SHAP.
-
----
-
 # 👨‍💻 Autor
 
 **Vitor Chaves**
