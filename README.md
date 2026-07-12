@@ -2,6 +2,8 @@
 
 # 📊 Previsão de Rotatividade de Funcionários (Employee Attrition)
 
+![Capa do projeto](/imagens/Streamlit_Model.png)
+
 ## 📖 Sobre o projeto
 
 Este projeto foi desenvolvido com o objetivo de analisar os fatores que influenciam a saída de funcionários de uma empresa (Attrition) utilizando técnicas de Ciência de Dados e Machine Learning.
@@ -56,6 +58,8 @@ Com este projeto, busquei responder perguntas como:
 
 # 🔍 Etapa 1 — Análise Exploratória dos Dados
 
+![Capa do projeto](imagens/EDA_01.png)
+
 Nesta etapa foram realizadas análises para compreender melhor a base de dados.
 
 Foram investigados:
@@ -73,6 +77,8 @@ Essa etapa foi fundamental para entender quais variáveis poderiam contribuir pa
 ---
 
 # 🤖 Etapa 2 — Machine Learning
+
+![Capa do projeto](imagens/ML_01.png)
 
 Após o tratamento dos dados foi desenvolvido um pipeline completo contendo:
 
