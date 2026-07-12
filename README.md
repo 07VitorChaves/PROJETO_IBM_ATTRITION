@@ -2,7 +2,7 @@
 
 # 📊 Previsão de Rotatividade de Funcionários (Employee Attrition)
 
-![Capa do projeto](/imagens/Streamlit_Model.png)
+![Capa do projeto](/Imagens/Streamlit_Model.png)
 
 ## 📖 Sobre o projeto
 
@@ -58,7 +58,7 @@ Com este projeto, busquei responder perguntas como:
 
 # 🔍 Etapa 1 — Análise Exploratória dos Dados
 
-![Capa do projeto](imagens/EDA_01.png)
+![Capa do projeto](Imagens/EDA_01.png)
 
 Nesta etapa foram realizadas análises para compreender melhor a base de dados.
 
@@ -78,7 +78,7 @@ Essa etapa foi fundamental para entender quais variáveis poderiam contribuir pa
 
 # 🤖 Etapa 2 — Machine Learning
 
-![Capa do projeto](imagens/ML_01.png)
+![Capa do projeto](Imagens/ML_01.png)
 
 Após o tratamento dos dados foi desenvolvido um pipeline completo contendo:
 
