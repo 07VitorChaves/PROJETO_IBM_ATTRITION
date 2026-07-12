@@ -1,0 +1,27 @@
+name: chgMachineLearning
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.11
+
+  # Ciência de Dados
+  - numpy=1.26.*
+  - pandas=2.2.*
+  - scikit-learn=1.5.*
+  - matplotlib=3.9.*
+  - seaborn=0.13.*
+
+  # Machine Learning
+  - lightgbm=4.5.*
+  - xgboost=2.1.*
+
+  # Utilidades
+  - joblib=1.4.*
+  - pip
+
+  # Pacotes instalados via pip
+  - pip:
+      - streamlit==1.47.*
